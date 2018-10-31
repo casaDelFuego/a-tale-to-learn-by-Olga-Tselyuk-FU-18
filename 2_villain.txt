@@ -1,2 +1,4 @@
 2_villain.txt
 the hint - Martians
+
+The object that left the crater after itself was nothing else, but an alien spaceship that traveled all the way from Mars to the Earth.
